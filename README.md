@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ekrem</h1>
-- ⚡ Fun fact **I hate pickles**
+<h3 align="center">iOS dev that aims big.</h3>
+
+- 🔭 I’m currently working on **3Pounds**
+
+- 🌱 I’m currently learning **Swift and SwiftUI**
+
+- 💬 Ask me about **Swift**
+
+- 📫 How to reach me **ekremozkaraca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
