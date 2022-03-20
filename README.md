@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekrem</h1>
 <h3 align="center">iOS dev that aims big.</h3>
 
-- 🔭 I’m currently working on **3Pounds**
+- 🔭 I’m currently working on **Aksis**
 
 - 🌱 I’m currently learning **Swift and SwiftUI**
 
