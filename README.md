@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Enerji SA**
 
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **Swift**
 
